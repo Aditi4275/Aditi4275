@@ -1,7 +1,7 @@
 # 💫 Hello, I'm Aditi Mehta! ✨  
 💻 Computer Science Student | 🤖 AI/ML Enthusiast | 💡 Innovator 
 
-Welcome to my GitHub! I'm a passionate developer pursuing B.Tech in Computer Science from KIIT, Bhubaneswar. I love building impactful AI and ML projects, diving deep into algorithms, and contributing to open-source communities. I believe in continuous learning, problem-solving, and turning ideas into solutions.
+Welcome to my GitHub! I'm a passionate developer pursuing B.Tech in Computer Science. I love building impactful AI and ML projects, diving deep into algorithms, and contributing to open-source communities. I believe in continuous learning, problem-solving, and turning ideas into solutions.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditi22mehta22@gmail.com) 
