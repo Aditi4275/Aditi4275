@@ -4,7 +4,6 @@
 Welcome to my GitHub! I'm a passionate developer pursuing B.Tech in Computer Science from KIIT, Bhubaneswar. I love building impactful AI and ML projects, diving deep into algorithms, and contributing to open-source communities. I believe in continuous learning, problem-solving, and turning ideas into solutions.
 
 ## 🚀 Projects
-
 ### 🔹 [✈️ Flight Cost Prediction](https://github.com/Aditi4275/Flight-Cost-Predict)
 > Built a machine learning model using **Random Forest Regressor** to predict flight ticket prices.  
 > Deployed with **Flask on Render**, it offers real-time predictions based on user input.  
