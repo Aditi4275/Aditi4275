@@ -3,21 +3,6 @@
 
 Welcome to my GitHub! I'm a passionate developer pursuing B.Tech in Computer Science from KIIT, Bhubaneswar. I love building impactful AI and ML projects, diving deep into algorithms, and contributing to open-source communities. I believe in continuous learning, problem-solving, and turning ideas into solutions.
 
-## 🚀 Projects
-### 🔹 [✈️ Flight Cost Prediction](https://github.com/Aditi4275/Flight-Cost-Predict)
-> Built a machine learning model using **Random Forest Regressor** to predict flight ticket prices.  
-> Deployed with **Flask on Render**, it offers real-time predictions based on user input.  
-> 📊 Involved feature engineering, model comparison using learning curves, and UI integration.
-### 🔹 [📄 Resume Analyzer (AI-powered)](https://github.com/Aditi4275/GFGKIIT-QUIRKY-CRAFTERS-HYPERTHON)
-> Developed using **Streamlit** and **Google Gemini AI**, this ATS-friendly tool analyzes resumes against job descriptions.  
-> Offers **95% accurate matching**, feedback for skills, upskilling resources, and visual summaries.  
-🛠️ Built for career enhancement and personal branding optimization.
-### 🔹 [💬 Twitter Sentiment Analysis](https://github.com/Aditi4275/Machine-Learning-Projects/blob/main/Twitter_Sentiment_Analysis.ipynb)
-> Processed over **1.5 million tweets** using NLP to classify sentiments.  
-> Models used: **Logistic Regression** & **Naive Bayes**  
-> Achieved ~**80% accuracy** in distinguishing positive and negative tweets.
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditi22mehta22@gmail.com) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=20BEFF)](https://www.kaggle.com/aditi2005)
@@ -30,9 +15,12 @@ Welcome to my GitHub! I'm a passionate developer pursuing B.Tech in Computer Sci
 [![Profile Views](https://komarev.com/ghpvc/?username=Aditi4275&label=Profile%20Views&color=0e75b6)](https://github.com/Aditi4275)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditi4275&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditi4275&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi4275&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Aditi4275&theme=merko&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Aditi4275&theme=merko&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi4275&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
 ---
 
